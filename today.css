@@ -1,0 +1,18 @@
+h1
+{
+    background-color: darkgrey;
+    color: darkgreen;
+    text-align: justify;
+    margin: 40px;
+    padding: 20px;
+    border: 10px;
+}
+p{
+    color: blueviolet;
+    background-color: bisque;
+}
+h2{
+    color: brown;
+    background-color: aquamarine;
+    border: 20px;
+}

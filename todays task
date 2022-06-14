@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{ background-color: aquamarine;}
+            h1{color: black;}
+            p{color: blue;}
+        </style>
+    </head>
+    <body>
+        <h1> Welcome to Amazon</h1>
+        <h2> Order your items here</h2>
+        <p> top picks for your home</p>
+
+
+
+    </body>
+</html>
